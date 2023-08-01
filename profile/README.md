@@ -4,7 +4,7 @@ Restate is a system for easily building resilient applications using **distribut
 
 <img src="https://www.restate.dev/intro_diagram.jpg" width="800">
 
-Have a look at the website to learn more: [https://restate.dev]()
+Have a look at the website to learn more: [https://restate.dev](https://restate.dev)
 
 ### Restate is currently in private beta:
 Send us a request to get access to the code, docs and examples:
