@@ -6,6 +6,12 @@ Restate is a system for easily building resilient applications using **distribut
 
 Have a look at the website to learn more: [https://restate.dev](https://restate.dev)
 
-### Restate is currently in beta:
-Send us a request to get instructions for accessing the code, docs and examples:
-[Request instructions](https://forms.gle/G8kDuucqhBoTfMwLA)
+## Exploring Restate
+
+Check out the following resources for learning more about Restate
+
+* [Runtime](https://github.com/restatedev/restate-dist) to run Restate.
+* [Documentation](https://docs.restate.dev) to learn more about Restate.
+* [Typescript SDK](https://github.com/restatedev/sdk-typescript) to develop Typescript services with Restate.
+* [Node template generator](https://github.com/restatedev/node-template-generator) project to develop your own Typescript services.
+* [Restate examples](https://github.com/restatedev/examples) showing you Restate in action!
