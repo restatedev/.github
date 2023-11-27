@@ -4,7 +4,15 @@ Restate is a system for easily building resilient applications using **distribut
 
 <img src="https://www.restate.dev/intro_diagram.jpg" width="800">
 
-Have a look at the website to learn more: [https://restate.dev](https://restate.dev)
+Have a look at [our website](https://restate.dev) to learn more.
+
+## Community
+
+Join our [Discord channel](https://discord.gg/skW3AZ6uGd) to communicate in real-time with each other.
+
+The [Restate discourse group](https://restate.discourse.group/) is our shared knowledge base.
+
+If you have encountered a problem with Restate, please open a [Github issue](https://github.com/restatedev/restate-dist/issues).
 
 ## Exploring Restate
 
