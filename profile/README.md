@@ -18,8 +18,8 @@ If you have encountered a problem with Restate, please open a [Github issue](htt
 
 Check out the following resources for learning more about Restate
 
-* [Runtime](https://github.com/restatedev/restate-dist) to run Restate.
 * [Documentation](https://docs.restate.dev) to learn more about Restate.
+* [Restate](https://github.com/restatedev/restate) to explore the backend.
 * [Typescript SDK](https://github.com/restatedev/sdk-typescript) to develop Typescript services with Restate.
 * [Node template generator](https://github.com/restatedev/node-template-generator) project to develop your own Typescript services.
 * [Restate examples](https://github.com/restatedev/examples) showing you Restate in action!
