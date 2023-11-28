@@ -12,7 +12,7 @@ Join our [Discord channel](https://discord.gg/skW3AZ6uGd) to communicate in real
 
 The [Restate discourse group](https://restate.discourse.group/) is our shared knowledge base.
 
-If you have encountered a problem with Restate, please open a [Github issue](https://github.com/restatedev/restate-dist/issues).
+If you have encountered a problem with Restate, please open a [Github issue](https://github.com/restatedev/restate/issues).
 
 ## Exploring Restate
 
