@@ -23,3 +23,4 @@ Check out the following resources for learning more about Restate
 * [Typescript SDK](https://github.com/restatedev/sdk-typescript) to develop Typescript services with Restate.
 * [Node template generator](https://github.com/restatedev/node-template-generator) project to develop your own Typescript services.
 * [Restate examples](https://github.com/restatedev/examples) showing you Restate in action!
+* [Container image](https://hub.docker.com/r/restatedev/restate) for running Restate as a container.
