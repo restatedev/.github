@@ -1,16 +1,19 @@
 # Welcome to Restate!
 
 Restate is a system for easily building resilient applications using **distributed durable RPC & async/await**.
-
-<img src="https://www.restate.dev/intro_diagram.jpg" width="800">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://restate.dev/poster_intro_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://restate.dev/poster_intro_2.svg">
+    <img alt="Restate overview" src="https://restate.dev/poster_intro_2.svg" width="600">
+  </picture>
+</p>
 
 Have a look at [our website](https://restate.dev) to learn more.
 
 ## Community
 
 Join our [Discord channel](https://discord.gg/skW3AZ6uGd) to communicate in real-time with each other.
-
-The [Restate discourse group](https://restate.discourse.group/) is our shared knowledge base.
 
 If you have encountered a problem with Restate, please open a [Github issue](https://github.com/restatedev/restate/issues).
 
@@ -19,7 +22,7 @@ If you have encountered a problem with Restate, please open a [Github issue](htt
 Check out the following resources for learning more about Restate
 
 * [Documentation](https://docs.restate.dev) to learn more about Restate.
-* [Restate](https://github.com/restatedev/restate) to explore the backend.
+* [Restate](https://github.com/restatedev/restate) to explore the Restate server and the CLI.
 * [Typescript SDK](https://github.com/restatedev/sdk-typescript) to develop Typescript services with Restate.
 * [Java and Kotlin SDK](https://github.com/restatedev/sdk-java) to develop Java and Kotlin services with Restate.
 * [Node template generator](https://github.com/restatedev/node-template-generator) project to develop your own Typescript services.
