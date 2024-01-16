@@ -28,3 +28,4 @@ Check out the following resources for learning more about Restate
 * [Node template generator](https://github.com/restatedev/node-template-generator) project to develop your own Typescript services.
 * [Restate examples](https://github.com/restatedev/examples) showing you Restate in action!
 * [Container image](https://hub.docker.com/r/restatedev/restate) for running Restate as a container.
+* [CDK library](https://github.com/restatedev/cdk) allowing you to deploy Restate to the cloud with one click.
