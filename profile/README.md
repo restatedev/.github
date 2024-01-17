@@ -13,9 +13,9 @@ Have a look at [our website](https://restate.dev) to learn more.
 
 ## Community
 
-Join our [Discord channel](https://discord.gg/skW3AZ6uGd) to communicate in real-time with each other.
-
-If you have encountered a problem with Restate, please open a [Github issue](https://github.com/restatedev/restate/issues).
+* 🤗️ [Join our online community](https://discord.gg/skW3AZ6uGd) for help, sharing feedback and talking to the community.
+* 📣 [Follow us on Twitter](https://twitter.com/restatedev) for staying up to date.
+* 🙋 [Create a GitHub issue](https://github.com/restatedev/restate/issues) for requesting a new feature or reporting a problem.
 
 ## Exploring Restate
 
