@@ -12,11 +12,12 @@
 
 Restate provides a distributed durable version of your everyday building blocks, letting you build a wide range of use cases:
 
+* [AI agents](https://github.com/restatedev/ai-examples)
 * [Workflows-as-Code](https://docs.restate.dev/use-cases/workflows)
 * [Microservice orchestration](https://docs.restate.dev/use-cases/microservice-orchestration)
 * [Event Processing](https://docs.restate.dev/use-cases/event-processing)
 * [Async Tasks](https://docs.restate.dev/use-cases/async-tasks)
-* [Agents, Stateful Actors, state machines, and much more](https://github.com/restatedev/examples)
+* [Stateful Actors, state machines, and much more](https://github.com/restatedev/examples)
 
 ## Get started with Restate
 
@@ -47,4 +48,6 @@ Check out the following resources for learning more about Restate:
 
 * [Documentation](https://docs.restate.dev) to learn more about Restate.
 * [Restate](https://github.com/restatedev/restate) to explore the Restate server and the CLI.
+* [Restate AI examples](https://github.com/restatedev/ai-examples) showing you how to implement AI agents with Restate!
 * [Restate examples](https://github.com/restatedev/examples) showing you Restate in action!
+* [Restate + Vercel AI SDK](https://github.com/restatedev/vercel-ai) showing you how to build resilient agents using Vercel's AI SDK.
