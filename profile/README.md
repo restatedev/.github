@@ -12,7 +12,7 @@
 
 Restate provides a distributed durable version of your everyday building blocks, letting you build a wide range of use cases:
 
-* [AI agents](https://github.com/restatedev/ai-examples)
+* [Durable AI Agents](https://github.com/restatedev/ai-examples)
 * [Workflows-as-Code](https://docs.restate.dev/use-cases/workflows)
 * [Microservice orchestration](https://docs.restate.dev/use-cases/microservice-orchestration)
 * [Event Processing](https://docs.restate.dev/use-cases/event-processing)
