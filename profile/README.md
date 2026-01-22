@@ -1,28 +1,28 @@
 # Welcome to Restate!
 
-[Restate](https://restate.dev) is the simplest way to build resilient applications.
+[Restate](https://restate.dev) helps you build innately resilient backends and agents.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://restate.dev/blog/announcing-restate-1.0-restate-cloud-and-our-seed-funding-round/title_figure_hudf3f5cd4c2c091de8198c7c4b273b831_2636815_6620x0_resize_q75_h2_box_3.webp">
-    <source media="(prefers-color-scheme: light)" srcset="https://restate.dev/blog/announcing-restate-1.0-restate-cloud-and-our-seed-funding-round/title_figure_hudf3f5cd4c2c091de8198c7c4b273b831_2636815_6620x0_resize_q75_h2_box_3.webp">
-    <img alt="Restate overview" src="https://restate.dev/blog/announcing-restate-1.0-restate-cloud-and-our-seed-funding-round/title_figure_hudf3f5cd4c2c091de8198c7c4b273b831_2636815_6620x0_resize_q75_h2_box_3.webp">
+    <source media="(prefers-color-scheme: dark)" srcset="http://restate.dev/blog/launch-1-0/title_figure.png">
+    <source media="(prefers-color-scheme: light)" srcset="http://restate.dev/blog/launch-1-0/title_figure.png">
+    <img alt="Restate overview" src="http://restate.dev/blog/launch-1-0/title_figure.png">
   </picture>
 </p>
 
-Restate provides a distributed durable version of your everyday building blocks, letting you build a wide range of use cases:
+Restate is a lightweight runtime to turn AI agents, workflows, and backend services into durable processes. Focus on your logic, not failure mechanics.
+
+## Use cases
 
 * [Durable AI Agents](https://docs.restate.dev/use-cases/ai-agents)
 * [Workflows](https://docs.restate.dev/use-cases/workflows)
 * [Microservice orchestration](https://docs.restate.dev/use-cases/microservice-orchestration)
 * [Event Processing](https://docs.restate.dev/use-cases/event-processing)
-* [Async Tasks](https://docs.restate.dev/use-cases/async-tasks)
-* [Stateful Actors, state machines, and much more](https://github.com/restatedev/examples)
 
 ## Get started with Restate
 
-1. 🚀 [Follow the Quickstart](https://docs.restate.dev/get_started/quickstart) to get Restate up and running within 2 minutes!
-1. 💡 [The Tour of Restate](https://docs.restate.dev/get_started/tour) walks you through the most important features of Restate.
+1. 🚀 [Follow the Quickstart](https://docs.restate.dev/quickstart) to get Restate up and running within 2 minutes!
+1. 💡 [The Tour of Restate](https://docs.restate.dev/tour/microservice-orchestration) walks you through the most important features of Restate.
 
 ## SDKs
 
