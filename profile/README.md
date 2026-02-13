@@ -4,9 +4,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="http://restate.dev/blog/launch-1-0/title_figure.png">
-    <source media="(prefers-color-scheme: light)" srcset="http://restate.dev/blog/launch-1-0/title_figure.png">
-    <img alt="Restate overview" src="http://restate.dev/blog/launch-1-0/title_figure.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://restate.dev/use-cases-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://restate.dev/use-cases-light.png">
+    <img alt="Restate overview" src="https://restate.dev/use-cases-light.png" width="100%">
   </picture>
 </p>
 
